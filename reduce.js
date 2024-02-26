@@ -21,3 +21,4 @@ let product = arr.reduce((val, curr) =>{
 console.log(product)
 
 
+// document.write("Hello World!")
